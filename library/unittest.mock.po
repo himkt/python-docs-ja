@@ -1797,7 +1797,7 @@ msgstr "MagicMock と magic method のサポート"
 
 #: ../../library/unittest.mock.rst:1956
 msgid "Mocking Magic Methods"
-msgstr "magick method をモックする"
+msgstr "magic method をモックする"
 
 #: ../../library/unittest.mock.rst:1958
 msgid ""
@@ -2114,7 +2114,7 @@ msgid ""
 "The return value of :meth:`MagicMock.__iter__` can be any iterable object "
 "and isn't required to be an iterator:"
 msgstr ""
-":meth:`MagickMock.__iter__` の return_value は任意の iterable で、イテレータである必要はありません:"
+":meth:`MagicMock.__iter__` の return_value は任意の iterable で、イテレータである必要はありません:"
 
 #: ../../library/unittest.mock.rst:2147
 msgid ""
